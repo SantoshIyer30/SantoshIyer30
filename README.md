@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h3 align="center">Engineering Student | Web Developer | WEB 3.0 Enthusiast</h3>
-##  Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SantoshIyer30&theme=algolia" alt="SantoshIyer30"  /></p>
 <!--
 <p align="center">
