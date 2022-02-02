@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h3 align="center">Engineering Student | Web Developer | WEB 3.0 Enthusiast</h3>
+##  Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="SantoshIyer30"  /></p>
 <!--
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
